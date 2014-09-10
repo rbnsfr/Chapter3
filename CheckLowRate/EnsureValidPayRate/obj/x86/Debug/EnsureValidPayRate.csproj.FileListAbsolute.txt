@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter3\CheckLowRate\EnsureValidPayRate\bin\Debug\EnsureValidPayRate.exe
+C:\Users\eahscs\Documents\GitHub\Chapter3\CheckLowRate\EnsureValidPayRate\bin\Debug\EnsureValidPayRate.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter3\CheckLowRate\EnsureValidPayRate\obj\x86\Debug\EnsureValidPayRate.exe
+C:\Users\eahscs\Documents\GitHub\Chapter3\CheckLowRate\EnsureValidPayRate\obj\x86\Debug\EnsureValidPayRate.pdb

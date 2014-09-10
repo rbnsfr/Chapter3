@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter3\CheckLowRate\CheckLowRate\bin\Debug\CheckLowRate.exe
+C:\Users\eahscs\Documents\GitHub\Chapter3\CheckLowRate\CheckLowRate\bin\Debug\CheckLowRate.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter3\CheckLowRate\CheckLowRate\obj\x86\Debug\CheckLowRate.exe
+C:\Users\eahscs\Documents\GitHub\Chapter3\CheckLowRate\CheckLowRate\obj\x86\Debug\CheckLowRate.pdb

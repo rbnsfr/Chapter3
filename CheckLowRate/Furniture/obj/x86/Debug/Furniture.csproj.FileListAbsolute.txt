@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter3\CheckLowRate\Furniture\bin\Debug\Furniture.exe
+C:\Users\eahscs\Documents\GitHub\Chapter3\CheckLowRate\Furniture\bin\Debug\Furniture.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter3\CheckLowRate\Furniture\obj\x86\Debug\Furniture.exe
+C:\Users\eahscs\Documents\GitHub\Chapter3\CheckLowRate\Furniture\obj\x86\Debug\Furniture.pdb

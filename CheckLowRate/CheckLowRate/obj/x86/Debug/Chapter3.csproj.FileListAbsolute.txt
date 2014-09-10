@@ -1,0 +1,4 @@
+C:\Users\eahscs\AppData\Local\Temporary Projects\Chapter3\bin\Debug\Chapter3.exe
+C:\Users\eahscs\AppData\Local\Temporary Projects\Chapter3\bin\Debug\Chapter3.pdb
+C:\Users\eahscs\AppData\Local\Temporary Projects\Chapter3\obj\x86\Debug\Chapter3.exe
+C:\Users\eahscs\AppData\Local\Temporary Projects\Chapter3\obj\x86\Debug\Chapter3.pdb

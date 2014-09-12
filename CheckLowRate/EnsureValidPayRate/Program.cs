@@ -23,7 +23,7 @@ namespace EnsureValidPayRate
                 }
             }
             else {
-                Console.WriteLine("\n- Pay rate: ${0}", Console.ReadLine());
+                Console.WriteLine("\n- Pay rate: ${0}", payrate);
                 Console.WriteLine("- Weekly rate: ${0}", Convert.ToString(Convert.ToDouble(payrate)*40));
             }
         }
